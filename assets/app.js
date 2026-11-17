@@ -18,7 +18,7 @@
   const ex = D.exemplo === true ? null : (Array.isArray(D.exemplo) ? D.exemplo : []);
   document.querySelectorAll("[data-exemplo]").forEach(el => {
     if (ex && !ex.includes(el.dataset.exemplo)) return;
-    el.innerHTML = '<span class="note">Conteúdo de exemplo — substitua em assets/dados.js</span>';
+    el.innerHTML = '<span class="note">Nosso site está em processo de reestruturação — em breve, novas informações nesta seção.</span>';
   });
 
   /* veneráveis */
