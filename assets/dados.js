@@ -21,13 +21,13 @@ window.CTPG = {
      atual: true marca o Venerável em exercício.
      foto: caminho da foto (retrato 3x4). Sem foto, aparece uma silhueta. */
   veneraveis: [
-    { nome: "Ir∴ Caio Renê Martins", periodo: "2026 – 2027", foto: "", atual: true,
+    { nome: "Ir∴ Caio Renê Martins", periodo: "2027 – 2026", foto: "", atual: true,
       nota: "Irmão fundador." },
-    { nome: "Ir∴ Henrique Ruiz Poiatos", periodo: "2025 – 2026", foto: "", atual: false,
+    { nome: "Ir∴ Henrique Ruiz Poiatos", periodo: "2026 – 2025", foto: "", atual: false,
       nota: "Irmão fundador." },
-    { nome: "Ir∴ Adelio Servinsckins Oliveira", periodo: "2024 – 2025", foto: "", atual: false,
+    { nome: "Ir∴ Adelio Servinsckins Oliveira", periodo: "2025 – 2024", foto: "", atual: false,
       nota: "Irmão fundador." },
-    { nome: "Ir∴ Regivan Souza Cruz", periodo: "2023 – 2024", foto: "", atual: false,
+    { nome: "Ir∴ Regivan Souza Cruz", periodo: "2024 – 2023", foto: "", atual: false,
       nota: "Irmão fundador." }
   ],
 
