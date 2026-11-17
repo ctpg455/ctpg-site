@@ -224,3 +224,17 @@ p{margin:0 0 1em;max-width:68ch}
 .pinfo b{grid-column:1/-1;font-family:var(--serif);font-weight:600}
 .seek{width:100%;accent-color:#d72229;height:24px;margin:0}
 .time{font-size:14px;color:#cfc4bb;white-space:nowrap;font-variant-numeric:tabular-nums}
+
+/* ---------- cartilha ---------- */
+.dl-info{font-size:14px;color:#f0d2cc;margin-top:12px}
+.capa-real{display:block;max-width:340px;margin:0 auto;transform:rotate(2deg);transition:transform .2s}
+.capa-real:hover{transform:rotate(0)}
+.capa-real img{width:100%;height:auto;border-radius:6px;box-shadow:0 22px 44px rgba(0,0,0,.35)}
+.qs{list-style:none;margin:0;padding:0}
+.qs li{padding:7px 0;border-bottom:1px solid var(--line);font-size:16px;color:var(--muted)}
+.qs li b{color:var(--red);font-family:var(--serif);margin-right:6px}
+.pag-exemplo{width:100%;max-width:420px;height:auto;margin:0 auto;border-radius:6px;border:1px solid var(--line);box-shadow:0 14px 30px rgba(0,0,0,.14)}
+.foto-sessao{width:100%;height:auto;border-radius:var(--radius);box-shadow:0 14px 30px rgba(0,0,0,.18)}
+.fotos-sessao{display:grid;gap:12px;grid-template-columns:repeat(4,minmax(0,1fr));margin-top:32px}
+.fotos-sessao img{width:100%;aspect-ratio:4/3;height:auto;object-fit:cover;border-radius:8px}
+@media(max-width:820px){.fotos-sessao{grid-template-columns:1fr 1fr}}
