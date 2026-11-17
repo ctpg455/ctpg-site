@@ -22,7 +22,7 @@ window.CTPG = {
      foto: caminho da foto (retrato 3x4). Sem foto, aparece uma silhueta. */
   veneraveis: [
     { nome: "Ir∴ Caio Renê Martins", periodo: "2026 – 2027", foto: "", atual: true,
-      nota: "Quarto Venerável Mestre da Loja, instalado em 08/07/2026. Irmão fundador." },
+      nota: "Quarto Venerável Mestre da Loja. Irmão fundador." },
     { nome: "Ir∴ Henrique Ruiz Poiatos", periodo: "2025 – 2026", foto: "", atual: false,
       nota: "Terceiro Venerável Mestre da Loja. Irmão fundador." },
     { nome: "Ir∴ Adelio Servinsckins Oliveira", periodo: "2024 – 2025", foto: "", atual: false,
