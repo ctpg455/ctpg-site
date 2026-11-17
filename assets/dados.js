@@ -83,6 +83,6 @@ window.CTPG = {
     { data: "2026-06-26", titulo: "Sessão Magna de Iniciação",
       descricao: "Iniciação de novos Irmãos ao quadro da Loja.", publico: false },
     { data: "2023-05-10", titulo: "Fundação da Loja",
-      descricao: "Fundação da A∴R∴L∴S∴ Cavaleiros Templários de Praia Grande nº 455, primeira Loja do GOP em atividade no Oriente de Praia Grande.", publico: false }
+      descricao: "Fundação da A∴R∴L∴S∴ Cavaleiros Templários de Praia Grande nº 455, única Loja do GOP em atividade na cidade de Praia Grande.", publico: false }
   ]
 };
