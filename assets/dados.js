@@ -27,7 +27,7 @@ window.CTPG = {
       nota: "Irmão fundador." },
     { nome: "Ir∴ Adelio Servinsckins Oliveira", periodo: "2025 – 2024", foto: "", atual: false,
       nota: "Irmão fundador." },
-    { nome: "Ir∴ Regivan Souza Cruz", periodo: "2024 – 2023", foto: "", atual: false,
+    { nome: "Ir∴ Regivan Santos Cruz", periodo: "2024 – 2023", foto: "", atual: false,
       nota: "Irmão fundador." }
   ],
 
