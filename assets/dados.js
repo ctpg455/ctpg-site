@@ -23,7 +23,7 @@ window.CTPG = {
   veneraveis: [
     { nome: "Ir∴ Caio Renê Martins", periodo: "2027 – 2026", foto: "", atual: true,
       nota: "Irmão fundador." },
-    { nome: "Ir∴ Henrique Ruiz Poiatos", periodo: "2026 – 2025", foto: "", atual: false,
+    { nome: "Ir∴ Henrique Ruiz Poyatos Filho", periodo: "2026 – 2025", foto: "", atual: false,
       nota: "Irmão fundador." },
     { nome: "Ir∴ Adelio Servinsckins Oliveira", periodo: "2025 – 2024", foto: "", atual: false,
       nota: "Irmão fundador." },
